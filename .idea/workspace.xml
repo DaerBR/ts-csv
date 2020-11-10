@@ -22,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/inherritance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../videos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\Code\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -46,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604920020403</updated>
       <workItem from="1604920021485" duration="14716000" />
+      <workItem from="1604998309764" duration="300000" />
     </task>
     <servers />
   </component>
